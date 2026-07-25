@@ -1,0 +1,45 @@
+
+body{
+	background-image: url('img/背景.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+ruby{font-size: 58 px;font-family: 黑体;text-align: center;}
+
+#p1{ font-weight=600;font:italic 30px "楷体" }
+
+#p2{font-size: 50px;}
+
+.inline_div{display:inline;}
+
+.block_disp{display: inline;background-color: lightpink;margin: 2px;background-color: rgba(255,182,193,0.65);}
+
+.block_disp1{display: inline;background-color: lightblue;margin: 2px;background-color: rgba(173,216,230,0.6);}
+
+#wrap{width: 1400px;height: 200px;}
+
+#d1{width:700px;height:100px;float: left;}
+
+#d2{width:700px;height:100px;float: right;}
+
+#d3{width:700px;height:100px;float: left;}
+
+#d4{width:700px;height:100px;float: right;}
+
+#d5{width:700px;height:100px;float: left;}
+
+#d6{width:700px;height:100px;float: right;}
+
+#p12345{
+	color: white;
+}
+
+.no{
+	text-align: left;
+
+}
+.no1{
+	
+}
